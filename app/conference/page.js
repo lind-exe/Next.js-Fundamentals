@@ -28,7 +28,7 @@ export default function Page() {
       </h2>
       <h2 className={styles.bgText}>
         <Link href="/conference/sessions" className={styles.bgLinks}>
-          View Speakers
+          View Sessions
         </Link>
       </h2>
     </>
