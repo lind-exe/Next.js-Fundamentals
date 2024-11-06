@@ -3,7 +3,7 @@ import styles from "../conference.module.css";
 async function fetchSessions() {
   const response = await fetch(
     "https://raw.githubusercontent.com/adhithiravi/Consuming-GraphqL-Apollo/master/api/data/sessions.json",
-    //always re-fetch data no matter what, ignoring cached data
+    //always re-fetch data
     { cachce: "no-store" }
   );
 
