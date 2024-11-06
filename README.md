@@ -1,3 +1,9 @@
+This is a basic CI/CD webapp created in React using Next.JS to broaden my skillset. 
+
+Following the course of "Next.JS Fundamentals" provided by Pluralsight @https://app.pluralsight.com/library/courses/nextjs-13-fundamentals/table-of-contents
+
+My version of the app is currently hosted using Vercel, which you can find right here: https://globomantics-nextjs-fundamentals-beta.vercel.app/home
+<hr>
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
